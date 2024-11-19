@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working on creating an autonomous bipedal robot<br>Looking for help with RL on Gazebo<br>Modeled and created a fully functional RC car with Ackerman steering <br>Learning about ROS2 and bridging the sim-to-real gap<br>Looking to collaborate on making advanced autonomous robot.<br><br>Ask me about robots and embedded system.<br><br>Reach me through email trungkhang111005@gmail.com.<br>
+Working on creating an autonomous bipedal robot<br>Looking for help with RL on Gazebo<br>Modeled and created a fully functional RC car with Ackerman steering <br>Learning about ROS2 and bridging the sim-to-real gap<br>Looking to collaborate on making advanced autonomous robot.<br><br>Ask me about robots and embedded systems.<br><br>Reach me through email trungkhang111005@gmail.com.<br>
 
 
 ## 🌐 Socials:
