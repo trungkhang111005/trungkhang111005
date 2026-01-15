@@ -1,5 +1,5 @@
 # 💫 About Me:
-British Columbia Institute of Technology Mechatronics and Robotics student completing the last term.<br>Currently working on an automated Pizza Box Drawing System as the budget, customizable alternative to more costly industrial solutions. <br>I am equipped with knowledge and experience of PLC programming, ABB robot programming, Embedded system design, 3D modelling, Vision system.<br>My personal goal is to work in a interdisciplinary and cross-functional team to create products that positively contribute to the well-being of the global community.<br>
+British Columbia Institute of Technology Mechatronics and Robotics Grad <br>Embedded Systems<br>Automation<br>Robotics<br>
 
 
 ## 🌐 Socials:
